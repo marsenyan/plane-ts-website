@@ -17,8 +17,8 @@ This project aims to provide users with an immersive and informative experience 
 
 ## Installation**
 
-1. Clone the repository: `git clone https://github.com/plane-react-website.git`
-2. Navigate to the project directory: `cd plane-travel-website`
+1. Clone the repository: `git clone https://github.com/marsenyan/plane-ts-website.git`
+2. Navigate to the project directory: `cd plane-react-website`
 3. Install dependencies: `npm install`
 4. Run the development server: `npm run dev`
 
