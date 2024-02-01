@@ -1,4 +1,4 @@
-## Plane Travel Website**
+## Plane  Website**
 
 This repository contains the source code for a plane travel website built using TypeScript, React and styled with SCSS. The website includes features such as:
 
