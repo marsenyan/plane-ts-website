@@ -25,3 +25,6 @@ This project aims to provide users with an immersive and informative experience 
 ## Contributing
 
 Contributions are welcome! Feel free to open issues for bugs or feature requests, and submit pull requests for enhancements or fixes. Ensure adherence to the project's coding standards and guidelines when contributing.
+![Home Page](/public/homePage.png)
+![TracelPage](/public/travelPage.png)
+![FotterPage](/public/topPage.png)
